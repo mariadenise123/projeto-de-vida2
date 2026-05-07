@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background:url('img/Paisagem-1.jpg');
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
